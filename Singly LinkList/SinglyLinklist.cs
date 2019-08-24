@@ -1,6 +1,6 @@
 using System;
 namespace DataStructureImpelmentation{
- public class Node
+    public class Node
     {
         public int data;
         public Node next;

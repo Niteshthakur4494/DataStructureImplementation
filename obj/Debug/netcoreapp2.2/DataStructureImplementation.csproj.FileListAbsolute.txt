@@ -1,0 +1,11 @@
+E:\Source\Repos\DataStructureImplementation\bin\Debug\netcoreapp2.2\DataStructureImplementation.deps.json
+E:\Source\Repos\DataStructureImplementation\bin\Debug\netcoreapp2.2\DataStructureImplementation.runtimeconfig.json
+E:\Source\Repos\DataStructureImplementation\bin\Debug\netcoreapp2.2\DataStructureImplementation.runtimeconfig.dev.json
+E:\Source\Repos\DataStructureImplementation\bin\Debug\netcoreapp2.2\DataStructureImplementation.dll
+E:\Source\Repos\DataStructureImplementation\bin\Debug\netcoreapp2.2\DataStructureImplementation.pdb
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.csprojAssemblyReference.cache
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.csproj.CoreCompileInputs.cache
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.AssemblyInfoInputs.cache
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.AssemblyInfo.cs
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.dll
+E:\Source\Repos\DataStructureImplementation\obj\Debug\netcoreapp2.2\DataStructureImplementation.pdb
