@@ -1,7 +1,7 @@
 using System;
 namespace DataStructureImpelmentation
 {
-     public class DLLNode
+    public class DLLNode
     {
         public int data;
         public DLLNode prev;

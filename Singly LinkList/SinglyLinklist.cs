@@ -1,5 +1,6 @@
 using System;
-namespace DataStructureImpelmentation{
+namespace DataStructureImpelmentation
+{
     public class Node
     {
         public int data;
